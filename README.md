@@ -53,7 +53,7 @@ The main aim of devaliance-redirect is to better understand how to host and main
 <br/>
 
 ## 📷 Screenshots
-![Website showcase](images/showcase/showcase.webp)
+![Website showcase](images/showcase/showcase-img.webp)
 
 <br/>
 
